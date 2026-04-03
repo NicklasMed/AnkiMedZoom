@@ -1,0 +1,6 @@
+img {
+    cursor: zoom-in;
+    user-select: none;
+    -webkit-user-drag: none;
+    transition: none !important;
+}
